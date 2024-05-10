@@ -50,6 +50,7 @@ Q<=0;
 else
 Q<=D;
 endmodule
+
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
